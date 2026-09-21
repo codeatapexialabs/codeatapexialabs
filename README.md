@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://www.apexialabs.in/email-image/AL-logo156.png" width="72" alt="Apexia Labs" />
+<img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/apexia-labs-logo.svg" width="72" alt="Apexia Labs" />
 
 # Apexia Labs
 
 **Turning products into the obvious choice.**
 
 <a href="https://www.apexialabs.in">
-  <img src="https://www.apexialabs.in/email-image/AL-logo156.png" width="22" height="22" alt="Website" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/apexia-labs-logo.svg" width="22" height="22" alt="Website" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/apexialabs">
-  <img src="https://www.apexialabs.in/email-image/linkedin.png" width="22" height="22" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/apexialabs">
-  <img src="https://www.apexialabs.in/email-image/twitter.png" width="22" height="22" alt="X" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter.svg" width="22" height="22" alt="X" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/apexialabs">
-  <img src="https://www.apexialabs.in/email-image/instagram.png" width="22" height="22" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/instagram.svg" width="22" height="22" alt="Instagram" />
 </a>
 
 </div>
@@ -99,19 +99,19 @@ A selection of things we have built, tested, or are currently experimenting with
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/apexialabs">
-  <img src="https://www.apexialabs.in/email-image/linkedin.png" width="22" height="22" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/apexialabs">
-  <img src="https://www.apexialabs.in/email-image/twitter.png" width="22" height="22" alt="X" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter.svg" width="22" height="22" alt="X" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/apexialabs">
-  <img src="https://www.apexialabs.in/email-image/instagram.png" width="22" height="22" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/instagram.svg" width="22" height="22" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/codeatapexialabs">
-  <img src="https://github.githubassets.com/favicons/favicon.png" width="22" height="22" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/github.svg" width="22" height="22" alt="GitHub" />
 </a>
 
 **Building something that needs to be clearer, better, or faster?**
