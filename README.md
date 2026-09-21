@@ -1,93 +1,71 @@
 <div align="center">
-  <a href="https://www.apexialabs.in">
-    <img src="github-org-assets/apexia-labs.svg#gh-light-mode-only" width="240" alt="Apexia Labs" />
-    <img src="github-org-assets/apexia-labs-dark.svg#gh-dark-mode-only" width="240" alt="Apexia Labs" />
-  </a>
 
-  **Turning products into the obvious choice.**
+<img src="https://www.apexialabs.in/email-image/AL-logo156.png" width="72" alt="Apexia Labs" />
 
-  <a href="https://www.apexialabs.in">
-    <img src="github-org-assets/icons/globe.svg#gh-light-mode-only" width="20" height="20" alt="Website" />
-    <img src="github-org-assets/icons/globe-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/apexialabs">
-    <img src="github-org-assets/icons/linkedin.svg#gh-light-mode-only" width="20" height="20" alt="LinkedIn" />
-    <img src="github-org-assets/icons/linkedin-dark.svg#gh-dark-mode-only" width="20" height="20" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/apexialabs">
-    <img src="github-org-assets/icons/x.svg#gh-light-mode-only" width="20" height="20" alt="X" />
-    <img src="github-org-assets/icons/x-dark.svg#gh-dark-mode-only" width="20" height="20" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/apexialabs">
-    <img src="github-org-assets/icons/instagram.svg#gh-light-mode-only" width="20" height="20" alt="Instagram" />
-    <img src="github-org-assets/icons/instagram-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lfg@apexialabs.in">
-    <img src="github-org-assets/icons/envelope.svg#gh-light-mode-only" width="20" height="20" alt="Email" />
-    <img src="github-org-assets/icons/envelope-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Email" />
-  </a>
+# Apexia Labs
+
+**Turning products into the obvious choice.**
+
+<a href="https://www.apexialabs.in">
+  <img src="https://www.apexialabs.in/email-image/AL-logo156.png" width="22" height="22" alt="Website" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/apexialabs">
+  <img src="https://www.apexialabs.in/email-image/linkedin.png" width="22" height="22" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/apexialabs">
+  <img src="https://www.apexialabs.in/email-image/twitter.png" width="22" height="22" alt="X" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/apexialabs">
+  <img src="https://www.apexialabs.in/email-image/instagram.png" width="22" height="22" alt="Instagram" />
+</a>
+
 </div>
 
 ## About Apexia Labs
 
-Apexia Labs started at the intersection of building, design, technology, and community. From Vadodara, we work with founders and teams to turn ideas into products people can understand, trust, and use.
+Your product is good. The problem is: nobody can tell.
 
-Sometimes that means designing and engineering a product from scratch. Sometimes it means rebuilding the surface around an already-good product. Sometimes it means creating the AI workflows and systems that make the team behind it move faster.
+Most technical and complex businesses lose deals not because their product is weak, but because they don't show up clearly. The website is confusing. The brand looks like everyone else's. Prospects don't immediately grasp what you do and why you're the right choice.
 
-Today the work spans product, web, design, AI, automation, and growth, with one common goal:
+That's the gap we close.
 
-> **Make the product better. Make the product clearer. Make the product move.**
+Apexia Labs is a design and technology agency that helps technical, complex, and ambitious businesses turn their product into the obvious choice. We combine UX strategy, visual design, web development, and brand thinking to make your product show up in a way that earns immediate trust, clarity, and conversions.
+
+## What we do
+
+| | |
+| --- | --- |
+| **Website** | Design and development for products that need to be understood on first visit |
+| **Branding** | Identity and visual systems. Perception is product. |
+| **Strategy** | Product positioning and content that make the offer obvious |
+| **Product** | UX, interfaces, and the systems people actually use |
+
+## Who we work with
+
+B2B tech companies, SaaS products, AI businesses, and early-stage startups operating in spaces where the business is genuinely complex and needs to be explained.
+
+We're selective about who we work with. If you're building something that's hard to explain, that's exactly where we work best.
 
 ## Organizations we've worked with
 
 **Product and client work**
 
-<div align="center">
-  <a href="https://www.apexialabs.in/work/accret">
-    <img src="github-org-assets/clients/accret.png" height="36" alt="Accret" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.apexialabs.in/work/wurldtech">
-    <img src="github-org-assets/clients/wurldtech.svg#gh-light-mode-only" height="22" alt="Wurldtech" />
-    <img src="github-org-assets/clients/wurldtech-dark.svg#gh-dark-mode-only" height="22" alt="Wurldtech" />
-  </a>
-</div>
+[Accret](https://www.apexialabs.in/work/accret) · [Wurldtech](https://www.apexialabs.in/work/wurldtech)
 
 **Technology and ecosystem**
 
-<div align="center">
-  <a href="https://awsugvad.in">
-    <img src="github-org-assets/clients/awsugvad.svg#gh-light-mode-only" height="36" alt="AWS User Group Vadodara" />
-    <img src="github-org-assets/clients/awsugvad-dark.svg#gh-dark-mode-only" height="36" alt="AWS User Group Vadodara" />
-  </a>
-</div>
-
-Also: [AWS Community Day Vadodara 2026](https://acd26.awsugvad.in)
+[AWS User Group Vadodara](https://awsugvad.in) · [AWS Community Day Vadodara 2026](https://acd26.awsugvad.in)
 
 ## A glimpse of what we build
 
-Websites, products, AI systems, experiments, and the work around them.
+website • branding • strategy • product
 
-<div align="center">
-  <a href="https://github.com/user-attachments/assets/188aeb2b-ac02-4456-bd70-fe276adf7e70">
-    <img src="github-org-assets/showcase-poster.jpg" alt="Apexia Labs work showcase" width="100%" />
-  </a>
-</div>
+https://github.com/user-attachments/assets/188aeb2b-ac02-4456-bd70-fe276adf7e70
 
-Full showcase on [Contra](https://contra.com/studio/apexia_labs).
-
-## What we build
-
-| | |
-| --- | --- |
-| **Build** | Websites, products, prototypes, internal tools |
-| **Design** | Product UX, interfaces, brand systems, visual direction |
-| **Automate** | AI agents, workflows, research systems, internal automation |
-| **Grow** | Content, community, social, SEO/AEO, distribution |
+Full showcase on [Contra](https://contra.com/studio/apexia_labs)
 
 ## From the lab
 
@@ -110,60 +88,35 @@ A selection of things we have built, tested, or are currently experimenting with
 
 **Build things that survive contact with reality.** Production constraints, maintainability, accessibility, performance, and actual users matter.
 
-## Our stack
 
-**Product**
-
-`Next.js` `React` `TypeScript` `Tailwind` `shadcn/ui`
-
-**AI**
-
-`Cursor` `LLMs` `MCP` `Agent Skills` `RAG` `n8n`
-
-**Infrastructure**
-
-`Vercel` `Sanity` `Drizzle` `GitHub` `Playwright`
-
-**Design**
-
-`Figma` `FigJam` `Notion`
-
-## Find us
+</br> 
+</br>
 
 <div align="center">
 
 <a href="https://www.apexialabs.in">
-  <img src="github-org-assets/icons/globe.svg#gh-light-mode-only" width="20" height="20" alt="Website" />
-  <img src="github-org-assets/icons/globe-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Website" />
+  <img src="https://www.apexialabs.in/email-image/AL-logo156.png" width="22" height="22" alt="Website" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/apexialabs">
-  <img src="github-org-assets/icons/linkedin.svg#gh-light-mode-only" width="20" height="20" alt="LinkedIn" />
-  <img src="github-org-assets/icons/linkedin-dark.svg#gh-dark-mode-only" width="20" height="20" alt="LinkedIn" />
+  <img src="https://www.apexialabs.in/email-image/linkedin.png" width="22" height="22" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/apexialabs">
-  <img src="github-org-assets/icons/x.svg#gh-light-mode-only" width="20" height="20" alt="X" />
-  <img src="github-org-assets/icons/x-dark.svg#gh-dark-mode-only" width="20" height="20" alt="X" />
+  <img src="https://www.apexialabs.in/email-image/twitter.png" width="22" height="22" alt="X" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/apexialabs">
-  <img src="github-org-assets/icons/instagram.svg#gh-light-mode-only" width="20" height="20" alt="Instagram" />
-  <img src="github-org-assets/icons/instagram-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Instagram" />
+  <img src="https://www.apexialabs.in/email-image/instagram.png" width="22" height="22" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/codeatapexialabs">
-  <img src="github-org-assets/icons/github.svg#gh-light-mode-only" width="20" height="20" alt="GitHub" />
-  <img src="github-org-assets/icons/github-dark.svg#gh-dark-mode-only" width="20" height="20" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:lfg@apexialabs.in">
-  <img src="github-org-assets/icons/envelope.svg#gh-light-mode-only" width="20" height="20" alt="Email" />
-  <img src="github-org-assets/icons/envelope-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Email" />
+  <img src="https://github.githubassets.com/favicons/favicon.png" width="22" height="22" alt="GitHub" />
 </a>
 
 **Building something that needs to be clearer, better, or faster?**
 
-[Start a conversation](https://cal.com/apexialabs/intro) · [lfg@apexialabs.in](mailto:lfg@apexialabs.in)
+
+[Book a Call](https://cal.com/apexialabs/intro) · [lfg@apexialabs.in](mailto:lfg@apexialabs.in)
 
 </div>
