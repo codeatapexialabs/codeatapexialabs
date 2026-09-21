@@ -40,12 +40,25 @@ Apexia Labs is a design and technology agency that helps technical, complex, and
 
 ## What we do
 
-| | |
-| --- | --- |
-| **Website** | Design and development for products that need to be understood on first visit |
-| **Branding** | Identity and visual systems. Perception is product. |
-| **Strategy** | Product positioning and content that make the offer obvious |
-| **Product** | UX, interfaces, and the systems people actually use |
+<table>
+  <tr>
+    <td><strong>Website</strong></td>
+    <td>Design and development for products that need to be understood on first visit</td>
+  </tr>
+  <tr>
+    <td><strong>Branding</strong></td>
+    <td>Identity and visual systems. Perception is product.</td>
+  </tr>
+  <tr>
+    <td><strong>Strategy</strong></td>
+    <td>Product positioning and content that make the offer obvious</td>
+  </tr>
+  <tr>
+    <td><strong>Product</strong></td>
+    <td>UX, interfaces, and the systems people actually use</td>
+  </tr>
+</table>
+
 
 ## Who we work with
 
@@ -75,16 +88,54 @@ Full showcase on [Contra](https://contra.com/studio/apexia_labs)
 
 A selection of things we have built, tested, or are currently experimenting with. They will open here as they become useful to other builders.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **Agent Skill** | A reusable skill for structured agency pre-sales research | `Agent Skills` `LLMs` |
-| **AI Career Agent** | Career discovery and local job matching experiment | `Python` `Gemini` |
-| **tryEnv** | Environment variable management and encrypted backup workflow | `TypeScript` `Next.js` |
-| **OffC** | Offline file conversion running locally in the browser | `WebAssembly` `FFmpeg` |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it is</th>
+      <th>Built with</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Agent Skill</strong></td>
+      <td>A reusable skill for structured agency pre-sales research</td>
+      <td><code>Agent Skills</code> <code>LLMs</code></td>
+    </tr>
+    <tr>
+      <td><strong>AI Career Agent</strong></td>
+      <td>Career discovery and local job matching experiment</td>
+      <td><code>Python</code> <code>Gemini</code></td>
+    </tr>
+    <tr>
+      <td><strong>tryEnv</strong></td>
+      <td>Environment variable management and encrypted backup workflow</td>
+      <td><code>TypeScript</code> <code>Next.js</code></td>
+    </tr>
+    <tr>
+      <td><strong>OffC</strong></td>
+      <td>Offline file conversion running locally in the browser</td>
+      <td><code>WebAssembly</code> <code>FFmpeg</code></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## How we build
 
-`Understand → Design → Build → Automate → Ship → Learn`
+```mermaid
+graph LR
+    %% Main horizontal sequence leading to the decision split
+    Understand([Understand]) --> Design[Design] --> Build[Build] --> Automate{Automate?}
+
+    %% Upper branch splitting off the decision node
+    Automate --> Ship[Ship] --> Learn[Learn] --> Done([Done])
+
+    %% Lower branch splitting off the decision node
+    Automate --> Scale[Scale] --> Monitor[Monitor] --> Iterate([Iterate])
+
+
+```
 
 **AI-native, not AI-decorated.** We use agents and automation where they remove meaningful work.
 
