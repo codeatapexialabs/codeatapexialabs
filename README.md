@@ -15,7 +15,11 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/apexialabs">
-  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter.svg" width="22" height="22" alt="X" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter-light.svg">
+    <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter-dark.svg" width="22" height="22" alt="X" />
+  </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/apexialabs">
@@ -103,7 +107,11 @@ A selection of things we have built, tested, or are currently experimenting with
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/apexialabs">
-  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter.svg" width="22" height="22" alt="X" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter-light.svg">
+    <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/twitter-dark.svg" width="22" height="22" alt="X" />
+  </picture>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/apexialabs">
@@ -111,7 +119,11 @@ A selection of things we have built, tested, or are currently experimenting with
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/codeatapexialabs">
-  <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/github.svg" width="22" height="22" alt="GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/github-light.svg">
+    <img src="https://raw.githubusercontent.com/codeatapexialabs/codeatapexialabs/refs/heads/preview/assets/socials/github-dark.svg" width="22" height="22" alt="GitHub" />
+  </picture>
 </a>
 
 **Building something that needs to be clearer, better, or faster?**
